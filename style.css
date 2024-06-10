@@ -1,0 +1,19 @@
+body{
+    background-image:url("RedB.png");
+}
+.front{
+    color:red;
+    font-family:helvetica;
+    font-size:50px;
+}
+.baisc1{
+    color:red;
+    font-family:helvetica;
+}
+.resize1{
+    font-size:22px;
+}
+.dog{
+    width:65%;
+    height:65%;
+}
